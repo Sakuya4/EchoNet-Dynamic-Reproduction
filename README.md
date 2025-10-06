@@ -21,3 +21,9 @@ It includes:
 - Baseline segmentation and regression model runs
 - Performance metrics (MAE, RMSE, R²)
 - Visualization results (scatter & ROC curves)
+
+
+## Pretrained Weights
+Pretrained model weights (`best.pt`) are hosted on Hugging Face:
+
+[Download from Hugging Face](https://huggingface.co/janalexei98/echonet-dynamic-best-pt/tree/main)
