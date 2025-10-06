@@ -17,11 +17,12 @@ This repository reproduces the baseline model training and evaluation
 of the [EchoNet-Dynamic](https://echonet.github.io/dynamic/) dataset for
 left ventricular ejection fraction (LVEF) estimation using PyTorch.
 
+[Dataset](https://stanfordaimi.azurewebsites.net/datasets/834e1cd1-92f7-4268-9daa-d359198b310a)
+
 It includes:
 - Baseline segmentation and regression model runs
 - Performance metrics (MAE, RMSE, R²)
 - Visualization results (scatter & ROC curves)
-
 
 ## Pretrained Weights
 Pretrained model weights (`best.pt`) are hosted on Hugging Face:
